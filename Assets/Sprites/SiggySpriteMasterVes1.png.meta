@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: d42bcebb0129cf348a28ec5d58927afc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SiggyUp_0
+    21300002: SiggyUp_1
+    21300004: SiggyUp_2
+    21300006: SiggyUp_3
+    21300008: SiggyUp_4
+    21300010: SiggyUp_5
+    21300012: SiggyUp_6
+    21300014: SiggyUp_7
+    21300016: SiggyUp_8
+    21300018: SiggyUp_9
+    21300020: SiggyUp_10
+    21300022: SiggyUp_11
+    21300024: SiggyDown_0
+    21300026: SiggyDown_1
+    21300028: SiggyDown_2
+    21300030: SiggyDown_3
+    21300032: SiggyDown_4
+    21300034: SiggyDown_5
+    21300036: SiggyDown_6
+    21300038: SiggyDown_7
+    21300040: SiggyDown_8
+    21300042: SiggyDown_9
+    21300044: SiggyDown_10
+    21300046: SiggyDown_11
+    21300048: SiggyLeft_0
+    21300050: SiggyLeft_1
+    21300052: SiggyLeft_2
+    21300054: SiggyLeft_3
+    21300056: SiggyLeft_4
+    21300058: SiggyLeft_5
+    21300060: SiggyLeft_6
+    21300062: SiggyLeft_7
+    21300064: SiggyLeft_8
+    21300066: SiggyLeft_9
+    21300068: SiggyLeft_10
+    21300070: SiggyLeft_11
+    21300072: SiggyRight_0
+    21300074: SiggyRight_1
+    21300076: SiggyRight_2
+    21300078: SiggyRight_3
+    21300080: SiggyRight_4
+    21300082: SiggyRight_5
+    21300084: SiggyRight_6
+    21300086: SiggyRight_7
+    21300088: SiggyRight_8
+    21300090: SiggyRight_9
+    21300092: SiggyRight_10
+    21300094: SiggyRight_11
+    21300096: SiggyUpChase_0
+    21300098: SiggyUpChase_1
+    21300100: SiggyUpChase_2
+    21300102: SiggyUpChase_3
+    21300104: SiggyUpChase_4
+    21300106: SiggyUpChase_5
+    21300108: SiggyUpChase_6
+    21300110: SiggyUpChase_7
+    21300112: SiggyUpChase_8
+    21300114: SiggyUpChase_9
+    21300116: SiggyUpChase_10
+    21300118: SiggyUpChase_11
+    21300120: SiggyDownChase_0
+    21300122: SiggyDownChase_1
+    21300124: SiggyDownChase_2
+    21300126: SiggyDownChase_3
+    21300128: SiggyDownChase_4
+    21300130: SiggyDownChase_5
+    21300132: SiggyDownChase_6
+    21300134: SiggyDownChase_7
+    21300136: SiggyDownChase_8
+    21300138: SiggyDownChase_9
+    21300140: SiggyDownChase_10
+    21300142: SiggyDownChase_11
+    21300144: SiggyLeftChase_0
+    21300146: SiggyLeftChase_1
+    21300148: SiggyLeftChase_2
+    21300150: SiggyLeftChase_3
+    21300152: SiggyLeftChase_4
+    21300154: SiggyLeftChase_5
+    21300156: SiggyLeftChase_6
+    21300158: SiggyLeftChase_7
+    21300160: SiggyLeftChase_8
+    21300162: SiggyLeftChase_9
+    21300164: SiggyLeftChase_10
+    21300166: SiggyLeftChase_11
+    21300168: SiggyRightChase_0
+    21300170: SiggyRightChase_1
+    21300172: SiggyRightChase_2
+    21300174: SiggyRightChase_3
+    21300176: SiggyRightChase_4
+    21300178: SiggyRightChase_5
+    21300180: SiggyRightChase_6
+    21300182: SiggyRightChase_7
+    21300184: SiggyRightChase_8
+    21300186: SiggyRightChase_9
+    21300188: SiggyRightChase_10
+    21300190: SiggyRightChase_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SiggyUp_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2597
+        width: 144
+        height: 250
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2597
+        width: 144
+        height: 246
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2597
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_3
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2597
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_4
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2597
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_5
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2597
+        width: 144
+        height: 246
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_6
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2597
+        width: 145
+        height: 250
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_7
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2597
+        width: 144
+        height: 246
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_8
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2597
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_9
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2597
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_10
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 2597
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUp_11
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 2597
+        width: 145
+        height: 246
+      alignment: 9
+      pivot: {x: .75, y: .75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2284
+        width: 144
+        height: 249
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2288
+        width: 148
+        height: 246
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2291
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_3
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2291
+        width: 144
+        height: 242
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_4
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2291
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_5
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2288
+        width: 144
+        height: 246
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_6
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2284
+        width: 144
+        height: 250
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_7
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 2288
+        width: 148
+        height: 246
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_8
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 2291
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_9
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 2291
+        width: 148
+        height: 242
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_10
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 2291
+        width: 144
+        height: 243
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDown_11
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 2288
+        width: 145
+        height: 246
+      alignment: 9
+      pivot: {x: .75, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2052
+        width: 238
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2049
+        width: 236
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2045
+        width: 232
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2042
+        width: 232
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_4
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2045
+        width: 233
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_5
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2049
+        width: 236
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_6
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2052
+        width: 239
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_7
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2049
+        width: 236
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_8
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 2045
+        width: 232
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_9
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2042
+        width: 232
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_10
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 2045
+        width: 232
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeft_11
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 2049
+        width: 235
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1799
+        width: 235
+        height: 144
+      alignment: 9
+      pivot: {x: .719602108, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1795
+        width: 232
+        height: 145
+      alignment: 9
+      pivot: {x: .722441852, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1792
+        width: 232
+        height: 148
+      alignment: 9
+      pivot: {x: .722441554, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_3
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1788
+        width: 232
+        height: 155
+      alignment: 9
+      pivot: {x: .722442091, y: .49999842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_4
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1792
+        width: 232
+        height: 148
+      alignment: 9
+      pivot: {x: .722441554, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_5
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1795
+        width: 236
+        height: 145
+      alignment: 9
+      pivot: {x: .718670845, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_6
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1799
+        width: 236
+        height: 144
+      alignment: 9
+      pivot: {x: .718670845, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_7
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1795
+        width: 235
+        height: 145
+      alignment: 9
+      pivot: {x: .71960187, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_8
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1792
+        width: 232
+        height: 148
+      alignment: 9
+      pivot: {x: .722441554, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_9
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1788
+        width: 232
+        height: 155
+      alignment: 9
+      pivot: {x: .722441554, y: .499999225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_10
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1792
+        width: 232
+        height: 148
+      alignment: 9
+      pivot: {x: .722441554, y: .499998361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRight_11
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1795
+        width: 235
+        height: 145
+      alignment: 9
+      pivot: {x: .719603956, y: .499999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1219
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1215
+        width: 144
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1215
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1219
+        width: 145
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_4
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1215
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_5
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1215
+        width: 144
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_6
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1219
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_7
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1215
+        width: 144
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_8
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1215
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_9
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1219
+        width: 144
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_10
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 1215
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyUpChase_11
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1215
+        width: 144
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 856
+        width: 144
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 860
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 863
+        width: 144
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 867
+        width: 146
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_4
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 863
+        width: 144
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_5
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 860
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_6
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 856
+        width: 144
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_7
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 860
+        width: 148
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_8
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 863
+        width: 144
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_9
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 867
+        width: 144
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_10
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 863
+        width: 144
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyDownChase_11
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 860
+        width: 144
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 589
+        width: 239
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 586
+        width: 236
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 579
+        width: 232
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 576
+        width: 232
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 582
+        width: 231
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_5
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 586
+        width: 236
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_6
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 589
+        width: 236
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_7
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 586
+        width: 236
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_8
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 579
+        width: 232
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_9
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 576
+        width: 229
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_10
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 579
+        width: 232
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyLeftChase_11
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 582
+        width: 236
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 294
+        width: 249
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 294
+        width: 250
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 294
+        width: 243
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_3
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 294
+        width: 239
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_4
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 294
+        width: 243
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_5
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 294
+        width: 246
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_6
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 294
+        width: 249
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_7
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 294
+        width: 246
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_8
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 294
+        width: 246
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_9
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 294
+        width: 239
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_10
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 294
+        width: 243
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SiggyRightChase_11
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 294
+        width: 246
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
