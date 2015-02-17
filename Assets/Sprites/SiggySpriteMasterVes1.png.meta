@@ -626,8 +626,8 @@ TextureImporter:
         y: 1219
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_1
       rect:
@@ -636,8 +636,8 @@ TextureImporter:
         y: 1215
         width: 144
         height: 250
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_2
       rect:
@@ -646,8 +646,8 @@ TextureImporter:
         y: 1215
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_3
       rect:
@@ -656,8 +656,8 @@ TextureImporter:
         y: 1219
         width: 145
         height: 239
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_4
       rect:
@@ -666,8 +666,8 @@ TextureImporter:
         y: 1215
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_5
       rect:
@@ -676,8 +676,8 @@ TextureImporter:
         y: 1215
         width: 144
         height: 250
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_6
       rect:
@@ -686,8 +686,8 @@ TextureImporter:
         y: 1219
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_7
       rect:
@@ -696,8 +696,8 @@ TextureImporter:
         y: 1215
         width: 144
         height: 250
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_8
       rect:
@@ -706,8 +706,8 @@ TextureImporter:
         y: 1215
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_9
       rect:
@@ -716,8 +716,8 @@ TextureImporter:
         y: 1219
         width: 144
         height: 239
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_10
       rect:
@@ -726,8 +726,8 @@ TextureImporter:
         y: 1215
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyUpChase_11
       rect:
@@ -736,8 +736,8 @@ TextureImporter:
         y: 1215
         width: 144
         height: 250
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .75}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_0
       rect:
@@ -746,8 +746,8 @@ TextureImporter:
         y: 856
         width: 144
         height: 250
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_1
       rect:
@@ -756,8 +756,8 @@ TextureImporter:
         y: 860
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_2
       rect:
@@ -766,8 +766,8 @@ TextureImporter:
         y: 863
         width: 144
         height: 243
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_3
       rect:
@@ -776,8 +776,8 @@ TextureImporter:
         y: 867
         width: 146
         height: 239
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_4
       rect:
@@ -786,8 +786,8 @@ TextureImporter:
         y: 863
         width: 144
         height: 243
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_5
       rect:
@@ -796,8 +796,8 @@ TextureImporter:
         y: 860
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_6
       rect:
@@ -806,8 +806,8 @@ TextureImporter:
         y: 856
         width: 144
         height: 250
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_7
       rect:
@@ -816,8 +816,8 @@ TextureImporter:
         y: 860
         width: 148
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_8
       rect:
@@ -826,8 +826,8 @@ TextureImporter:
         y: 863
         width: 144
         height: 243
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_9
       rect:
@@ -836,8 +836,8 @@ TextureImporter:
         y: 867
         width: 144
         height: 239
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_10
       rect:
@@ -846,8 +846,8 @@ TextureImporter:
         y: 863
         width: 144
         height: 243
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyDownChase_11
       rect:
@@ -856,8 +856,8 @@ TextureImporter:
         y: 860
         width: 144
         height: 246
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .75, y: .25}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyLeftChase_0
       rect:
@@ -986,8 +986,8 @@ TextureImporter:
         y: 294
         width: 249
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_1
       rect:
@@ -996,8 +996,8 @@ TextureImporter:
         y: 294
         width: 250
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_2
       rect:
@@ -1006,8 +1006,8 @@ TextureImporter:
         y: 294
         width: 243
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_3
       rect:
@@ -1016,8 +1016,8 @@ TextureImporter:
         y: 294
         width: 239
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_4
       rect:
@@ -1026,8 +1026,8 @@ TextureImporter:
         y: 294
         width: 243
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_5
       rect:
@@ -1036,8 +1036,8 @@ TextureImporter:
         y: 294
         width: 246
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_6
       rect:
@@ -1046,8 +1046,8 @@ TextureImporter:
         y: 294
         width: 249
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_7
       rect:
@@ -1056,8 +1056,8 @@ TextureImporter:
         y: 294
         width: 246
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_8
       rect:
@@ -1066,8 +1066,8 @@ TextureImporter:
         y: 294
         width: 246
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_9
       rect:
@@ -1076,8 +1076,8 @@ TextureImporter:
         y: 294
         width: 239
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_10
       rect:
@@ -1086,8 +1086,8 @@ TextureImporter:
         y: 294
         width: 243
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: SiggyRightChase_11
       rect:
@@ -1096,8 +1096,8 @@ TextureImporter:
         y: 294
         width: 246
         height: 144
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .722441912, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
