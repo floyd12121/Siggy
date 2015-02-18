@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: 8d70b1c2367574541b30434ef793ede9
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: UsherMasterSprite_0
+    21300002: UsherMasterSprite_1
+    21300004: UsherMasterSprite_2
+    21300006: UsherMasterSprite_3
+    21300008: UsherMasterSprite_4
+    21300010: UsherMasterSprite_5
+    21300012: UsherMasterSprite_6
+    21300014: UsherMasterSprite_7
+    21300016: UsherMasterSprite_8
+    21300018: UsherMasterSprite_9
+    21300020: UsherMasterSprite_10
+    21300022: UsherMasterSprite_11
+    21300024: UsherMasterSprite_12
+    21300026: UsherMasterSprite_13
+    21300028: UsherMasterSprite_14
+    21300030: UsherMasterSprite_15
+    21300032: UsherMasterSprite_16
+    21300034: UsherMasterSprite_17
+    21300036: UsherMasterSprite_18
+    21300038: UsherMasterSprite_19
+    21300040: UsherMasterSprite_20
+    21300042: UsherMasterSprite_21
+    21300044: UsherMasterSprite_22
+    21300046: UsherMasterSprite_23
+    21300048: UsherMasterSprite_24
+    21300050: UsherMasterSprite_25
+    21300052: UsherMasterSprite_26
+    21300054: UsherMasterSprite_27
+    21300056: UsherMasterSprite_28
+    21300058: UsherMasterSprite_29
+    21300060: UsherMasterSprite_30
+    21300062: UsherMasterSprite_31
+    21300064: UsherMasterSprite_32
+    21300066: UsherMasterSprite_33
+    21300068: UsherMasterSprite_34
+    21300070: UsherMasterSprite_35
+    21300072: UsherMasterSprite_36
+    21300074: UsherMasterSprite_37
+    21300076: UsherMasterSprite_38
+    21300078: UsherMasterSprite_39
+    21300080: UsherMasterSprite_40
+    21300082: UsherMasterSprite_41
+    21300084: UsherMasterSprite_42
+    21300086: UsherMasterSprite_43
+    21300088: UsherMasterSprite_44
+    21300090: UsherMasterSprite_45
+    21300092: UsherMasterSprite_46
+    21300094: UsherMasterSprite_47
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -27,7 +75,7 @@ TextureImporter:
     filterMode: -1
     aniso: 16
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -42,6 +90,486 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: UsherMasterSprite_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2460
+        width: 194
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2460
+        width: 193
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2460
+        width: 193
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_3
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2460
+        width: 193
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 2464
+        width: 193
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2460
+        width: 194
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 2460
+        width: 193
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_7
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2460
+        width: 193
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_8
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 2464
+        width: 197
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_9
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 2460
+        width: 194
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_10
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 2457
+        width: 193
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_11
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2457
+        width: 194
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1757
+        width: 201
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1757
+        width: 196
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1760
+        width: 193
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_15
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1760
+        width: 193
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_16
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1757
+        width: 193
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_17
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1757
+        width: 190
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1753
+        width: 193
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_19
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1757
+        width: 194
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_20
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1757
+        width: 193
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_21
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1760
+        width: 193
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_22
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 1757
+        width: 193
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_23
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1757
+        width: 197
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1127
+        width: 200
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1117
+        width: 200
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_26
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1110
+        width: 204
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_27
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1107
+        width: 208
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_28
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1110
+        width: 204
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_29
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1113
+        width: 204
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_30
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1120
+        width: 200
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_31
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1106
+        width: 203
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_32
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1103
+        width: 201
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_33
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1103
+        width: 204
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_34
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1106
+        width: 207
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_35
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1110
+        width: 207
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_36
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 522
+        width: 200
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 512
+        width: 200
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_38
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 508
+        width: 208
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_39
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 505
+        width: 204
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_40
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 508
+        width: 200
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_41
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 509
+        width: 204
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_42
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 519
+        width: 200
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_43
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 505
+        width: 204
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_44
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 498
+        width: 200
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_45
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 498
+        width: 208
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_46
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 501
+        width: 207
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UsherMasterSprite_47
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 508
+        width: 206
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
