@@ -3,12 +3,16 @@ using System.Collections;
 
 public class PlayerControl : MonoBehaviour
 {
+	private bool flashing;
+	private bool fade;
 	public GUIText ItemText;
 	private Animator animator;
 	private Color original;
 
 	void Start()
 	{
+		fade = true;
+		flashing = false;
 		animator = GetComponent<Animator>();
 		original = GetComponent<SpriteRenderer>().color;
 	}
@@ -46,6 +50,16 @@ public class PlayerControl : MonoBehaviour
 		{
 			animator.SetTrigger("Down");
 		}
+
+		// If the player is currently on the Ghost layer, make them slightly translucent
+		if(this.gameObject.layer == 9 && fade && !flashing)
+		{
+			StartCoroutine(Fade());
+		}
+		else if(this.gameObject.layer == 9 && !fade && !flashing)
+		{
+			StartCoroutine(Unfade());
+		}
 	}
 	
 	void OnTriggerEnter2D(Collider2D other)
@@ -76,6 +90,7 @@ public class PlayerControl : MonoBehaviour
 		{
 			// Move player back to layer 9
 			this.gameObject.layer = 9;
+			flashing = true;
 			ItemText.text = "Ouch!";
 
 			// Flash red
@@ -103,5 +118,30 @@ public class PlayerControl : MonoBehaviour
 		GetComponent<SpriteRenderer>().color = original;
 		yield return new WaitForSeconds(time);
 		ItemText.text = "Try again!";
+		flashing = false;
+	}
+
+	IEnumerator Fade()
+	{
+		while(this.GetComponent<SpriteRenderer> ().color.a > .5f)
+		{
+			Color temporary = this.GetComponent<SpriteRenderer> ().color;
+			yield return new WaitForSeconds(.01f);
+			temporary.a = temporary.a - .01f;
+			GetComponent<SpriteRenderer> ().color = temporary;
+		}
+		fade = false;
+	}
+
+	IEnumerator Unfade()
+	{
+		while (this.GetComponent<SpriteRenderer> ().color.a != 1f)
+		{
+			Color temporary = this.GetComponent<SpriteRenderer> ().color;
+			yield return new WaitForSeconds (.01f);
+			temporary.a = temporary.a + .01f;
+			GetComponent<SpriteRenderer> ().color = temporary;
+		}
+		fade = true;
 	}
 }
