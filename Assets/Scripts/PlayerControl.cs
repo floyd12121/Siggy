@@ -86,6 +86,9 @@ public class PlayerControl : MonoBehaviour
 			// ... the animation for the goal changes as well
 			other.GetComponent<Animator> ().SetTrigger ("GoalMet");
 
+			// make item reappear
+			StartCoroutine(Reset());
+
 		} else if (other.gameObject.tag == "Enemy")
 		{
 			// Move player back to layer 9
@@ -96,6 +99,7 @@ public class PlayerControl : MonoBehaviour
 			// Flash red
 			StartCoroutine(Flash(.1f));
 
+			// Make item reappear
 			GameObject temp = GameObject.FindWithTag("Item");
 			Color temporary = temp.GetComponent<SpriteRenderer> ().color;
 			temporary.a = 1;
@@ -143,5 +147,13 @@ public class PlayerControl : MonoBehaviour
 			GetComponent<SpriteRenderer> ().color = temporary;
 		}
 		fade = true;
+	}
+
+	IEnumerator Reset()
+	{
+		yield return new WaitForSeconds (1f);
+		ItemText.text = "Get the next booklet!";
+		GameObject.FindWithTag("Item").GetComponent<ItemScript>().Reappear();
+		GameObject.FindWithTag("Goal").GetComponent<Animator> ().SetTrigger ("GoalReset");
 	}
 }

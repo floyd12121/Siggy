@@ -12,7 +12,9 @@ public class ItemScript : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+	{
+
 	}
 
 	void OnTriggerEnter2D(Collider2D other)
@@ -20,9 +22,18 @@ public class ItemScript : MonoBehaviour {
 		// When player hits an object with the "Item" tag...
 		if (other.gameObject.tag == "Player")
 		{
+			// Item disappears
 			Color temp = original;
 			temp.a = 0f;
 			GetComponent<SpriteRenderer> ().color = temp;
 		}
+	}
+
+	public void Reappear()
+	{
+		Color temp = original;
+		temp.a = 1f;
+		GetComponent<SpriteRenderer> ().color = temp;
+		transform.position = new Vector2(0f, 0f);
 	}
 }
