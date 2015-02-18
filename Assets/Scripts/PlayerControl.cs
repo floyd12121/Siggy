@@ -155,5 +155,6 @@ public class PlayerControl : MonoBehaviour
 		ItemText.text = "Get the next booklet!";
 		GameObject.FindWithTag("Item").GetComponent<ItemScript>().Reappear();
 		GameObject.FindWithTag("Goal").GetComponent<Animator> ().SetTrigger ("GoalReset");
+		animator.SetTrigger ("GoalMet");
 	}
 }
