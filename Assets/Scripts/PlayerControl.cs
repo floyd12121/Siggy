@@ -5,10 +5,12 @@ public class PlayerControl : MonoBehaviour
 {
 	public GUIText ItemText;
 	private Animator animator;
+	private Color original;
 
 	void Start()
 	{
 		animator = GetComponent<Animator>();
+		original = GetComponent<SpriteRenderer>().color;
 	}
 
 	void FixedUpdate()
@@ -49,31 +51,57 @@ public class PlayerControl : MonoBehaviour
 	void OnTriggerEnter2D(Collider2D other)
 	{
 		// When player hits an object with the "Item" tag...
-		if(other.gameObject.tag == "Item")
-		{
-			// ... the object is destroyed
-			Destroy(other.gameObject);
-
+		if (other.gameObject.tag == "Item") {
 			// ... and the player gets moved to layer 8 (Currently the "Action" layer)
 			this.gameObject.layer = 8;
 			ItemText.text = "Head to the stash!";
 
 			// ... animation changes as well
-			animator.SetTrigger("ItemGet");
+			animator.SetTrigger ("ItemGet");
 		}
 
 		// When player hits an object with the "Goal" tag...
-		else if(other.gameObject.tag == "Goal")
-		{	
+		else if (other.gameObject.tag == "Goal") {	
 			// ... the player gets moved back to layer 9 (Currently the "Ghost" layer)
 			this.gameObject.layer = 9;
 			ItemText.text = "Good job!";
 
 			// ... player animation changes back
-			animator.SetTrigger("GoalMet");
+			animator.SetTrigger ("GoalMet");
 			
 			// ... the animation for the goal changes as well
-			other.GetComponent<Animator>().SetTrigger("GoalMet");
+			other.GetComponent<Animator> ().SetTrigger ("GoalMet");
+
+		} else if (other.gameObject.tag == "Enemy")
+		{
+			// Move player back to layer 9
+			this.gameObject.layer = 9;
+			ItemText.text = "Ouch!";
+
+			// Flash red
+			StartCoroutine(Flash(.1f));
+
+			GameObject temp = GameObject.FindWithTag("Item");
+			Color temporary = temp.GetComponent<SpriteRenderer> ().color;
+			temporary.a = 1;
+			temp.GetComponent<SpriteRenderer> ().color = temporary;
 		}
+	}
+
+	IEnumerator Flash(float time)
+	{
+		GetComponent<SpriteRenderer>().color = Color.red;
+		yield return new WaitForSeconds(time);
+		GetComponent<SpriteRenderer>().color = original;
+		yield return new WaitForSeconds(time);
+		GetComponent<SpriteRenderer>().color = Color.red;
+		yield return new WaitForSeconds(time);
+		GetComponent<SpriteRenderer>().color = original;
+		yield return new WaitForSeconds(time);
+		GetComponent<SpriteRenderer>().color = Color.red;
+		yield return new WaitForSeconds(time);
+		GetComponent<SpriteRenderer>().color = original;
+		yield return new WaitForSeconds(time);
+		ItemText.text = "Try again!";
 	}
 }
