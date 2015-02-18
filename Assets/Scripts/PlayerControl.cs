@@ -6,11 +6,15 @@ public class PlayerControl : MonoBehaviour
 	private bool flashing;
 	private bool fade;
 	public GUIText ItemText;
+	public GUIText ScoreText;
+	private int score;
 	private Animator animator;
 	private Color original;
 
 	void Start()
 	{
+		score = 0;
+		ScoreText.text = "Score: " + score.ToString();
 		fade = true;
 		flashing = false;
 		animator = GetComponent<Animator>();
@@ -72,6 +76,7 @@ public class PlayerControl : MonoBehaviour
 
 			// ... animation changes as well
 			animator.SetTrigger ("ItemGet");
+			StartCoroutine(Unfade());
 		}
 
 		// When player hits an object with the "Goal" tag...
@@ -151,6 +156,8 @@ public class PlayerControl : MonoBehaviour
 
 	IEnumerator Reset()
 	{
+		score++;
+		ScoreText.text = "Score: " + score.ToString();
 		yield return new WaitForSeconds (1f);
 		ItemText.text = "Get the next booklet!";
 		GameObject.FindWithTag("Item").GetComponent<ItemScript>().Reappear();
